@@ -17,7 +17,7 @@ class App extends Component {
     // DON'T DO THIS: this.state.persons[0].name = "Maximilian"
     this.setState({
       persons: [
-        { name: "Maximilan", age: 28 },
+        { name: "Maximilian", age: 28 },
         { name: "Manu", age: 29 },
         { name: "Stephanie", age: 27 }
       ]
